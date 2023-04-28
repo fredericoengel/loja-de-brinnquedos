@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>BRINQUEDOTECA STORE</title>
+		<link rel="stylesheet" href="styles.css">
+	</head>
+	<body>    
+       		<header>
+           	 	<div class="content">
+				<nav>
+					<p class="brand">BRINQUEDOTECA <strong> STORE</strong></p>
+					<ul>
+						<li><a href="#carrinho">Carrinho</a></li>
+						<li><a href="#promoções">Promoções</a></li>
+						<li><a href="#doações">Doações</a></li>
+						<button>Login</button>
+					</ul>
+				</nav>
+				<div class="header-block">
+			<img src="palito.png" alt="Palito de Fosforo"/>
+					<div class="text">
+						<h2>O BRINQUEDO PERFEITO PARA VOCE</h2>
+						<p>Aqui você brinca coom os melhores bonecos 
+						de palito?
+						</p>
+					</div>
+					
+			</div>
+			
+		</div>
+		<img src="palito.png" alt="Palito de Fosforo"/>
+		
+	</header>
+	<section class="carrinho" id="carrinho">
+		<div class="content">
+			<div class="title-wrapper-carrinho">
+				<p> Encontre o boneco de palito que você mais se identifica!</p>
+				<h3> </h3>
+			</div>
+			<div class="filter-card">
+				<input
+					type="text"
+					class="search-input"
+					placeholder="Escolha seu brinquedo favorito"
+				/>
+				<button class="search-button">Search</button>
+			</div>
+			<div class= "card-wrapper">
+				<div class="card-item">
+					<img src="b1.png" al="Palito"/>
+					<div class="card-content">
+						<h3>BONECO PALITO ESTUDANTE LESADO </h3>
+						<p> 
+							O boneco de palito estudante lesado vem com cara de tapado.
+							Além disso ele não sabe o que se significa dpt, e vem fazendo bico.
+						</p>
+						<button type="button"> Eu quero esse!</button>
+			</div>
+			<div class = "card-wrapper">
+				<div class="card-item">
+					<img src="b2.png" al="Palito"/>
+					<div class="card-content">
+						<h3> BONECO PALITO ESTUDANTE CARECA GÓTICO </h3>
+						<p align="justify">
+							O boneco de palito aluno careca gótico vem com muito conhecimento.
+							Mas em compensação vem com pouco cabelo.
+						</p>
+						<button type=button"> Eu quero esse!</button>
+			</div>
+			<div class = "card-wrapper">
+				<div class="card-item">
+					<img src="b3.png" al="Palito"/>
+					<div class="card-content">
+						<h3> BONECO PALITO ESTUDANTE DE TI XANDE BARBUDO </h3>
+						<p align="justify">
+							O boneco de palito estudante de ti xande barbudo, vem equipado com uma constituição rasgada.
+							E com uma lista dos maiores bandidos do Brasil.
+						</p>
+						<button type=button"> Eu quero esse!</button>
+			</div>
+			<div class = "card-wrapper">
+				<div class="card-item">
+					<img src="b4.png" al="Palito"/>
+					<div class="card-content">
+						<h3> BONECO PALITO CICLOP SMILE  </h3>
+						<p align="justify">
+							O boneco de palito é o modelo que possui a cabeça mais pesada.
+							Para quando voce atirar em alguém fazer um belo estrago na pessoa.
+						</p>
+						<button type=button"> Eu quero esse!</button>
+			</div>
+			<div class = "card-wrapper">
+				<div class="card-item">
+					<img src="b5.png" al="Palito"/>
+					<div class="card-content">
+						<h3> BONECO PALITO ET BILÚ </h3>
+						<p align="justify">
+							O boneco de palito et bilú para aquelas crianças que gostam de afinar a voz.
+							E vem companhado com um charuto do Danilo Gentili.
+						</p>
+						<button type=button"> Eu quero esse!</button>
+			</div>
+			<div class = "card-wrapper">
+				<div class="card-item">
+					<img src="b6.png" al="Palito"/>
+					<div class="card-content">
+						<h3> BONECO PALITO ESTUDANTE DA ROÇA </h3>
+						<p align="justify">
+							O boneco de palito estudante da roça gosta de perguntar porque enrolando o "r".
+							Além disso ele vem acompanhado com um enchada para você criar verganha na cara e capinar o quinta lda sua casa.
+						</p>
+						<button type=button"> Eu quero esse!</button>
+			</div>
+			<div class = "card-wrapper">
+				<div class="card-item">
+					<img src="b7.png" al="Palito"/>
+					<div class="card-content">
+						<h3> BONECO PALITO CHEFE DE EMPRESA BRABÃO </h3>
+						<p align="justify">
+							O boneco de palito chefe de empresa brabão gosta de mandar todos irem trabalhar, caso contrário ele te demite.
+							É a verão mais estressada dos bonecos de palito.
+						</p>
+						<button type=button"> Eu quero esse!</button>
+			</div>
+			<div class = "card-wrapper">
+				<div class="card-item">
+					<img src="b8.png" al="Palito"/>
+					<div class="card-content">
+						<h3> BONECO PALITO ESTUDANTE APAVORADO </h3>
+						<p align="justify">
+							O boneco de palito estudante apavorado tira sempre zero nas provas, e sempre está chorando nota para os professores.
+							Está versão vem equipado com um comprimido de rivotril.
+						</p>
+						<button type=button"> Eu quero esse!</button>
+			</div>
+				
+	</section>
+	
+
+
+
+
+
+
+
+	
+
+
+
+
+	
+</body>
+</html>
+		
+
+
+
+
+
+
+
+
+
+</body>
+</html>
