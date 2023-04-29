@@ -1,2 +1,2 @@
-# loja-de-brinnquedos
+# loja-de-brinquedos
 loja de brinquedos
